@@ -1,17 +1,9 @@
 import { motion } from 'framer-motion'
 import {
-  Home,
-  Calendar,
-  Ticket,
-  ListChecks,
-  FileText,
-  Settings,
-  Search,
-  Bell,
+
   Plus,
   Download,
-  LogOut,
-  User,
+
 } from 'lucide-react'
 import Sidebar from "../sections/Sidebar"
 import Topbar from "../sections/Topbar"

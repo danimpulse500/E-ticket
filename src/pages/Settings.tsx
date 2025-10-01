@@ -1,6 +1,6 @@
 import Sidebar from "../sections/Sidebar"
 import Topbar from "../sections/Topbar"
-import { User, Lock, Mail, Save } from "lucide-react"
+import { User, Save } from "lucide-react"
 
 export default function Settings() {
   return (
